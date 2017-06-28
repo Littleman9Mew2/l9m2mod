@@ -1,0 +1,22 @@
+{
+  "margin" : 0,
+  "name" : "l9m2_materials",
+  "properties" : {
+  },
+  "spacing" : 0,
+  "tilecount" : 1,
+  "tileheight" : 16,
+  "tileproperties" : {
+    "0" : {
+		"//description" : "The fabric of reality itself.",
+		"//name" : "l9m2_fabricofreality",
+		"//shortdescription" : "Fabric of Reality",
+		"material" : "l9m2_fabricofreality"
+		}
+	},
+	"tiles" : {
+    "0" : {
+		"image" : "./../../../../tiled/l9m2mod/materials/l9m2_fabricofreality.png"
+		}
+	}
+}

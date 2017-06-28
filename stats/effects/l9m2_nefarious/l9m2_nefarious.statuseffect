@@ -1,0 +1,15 @@
+{
+  "name" : "l9m2_nefariousse",
+
+  "effectConfig" : {},
+  "defaultDuration" : 0.5,
+
+  "scripts" : [
+    "l9m2_nefarious.lua"
+  ],
+
+  "animationConfig" : "l9m2_nefarious.animation",
+
+  "label" : "Decaying",
+  "icon" : "/interface/statuses/l9m2_nefarious.png"
+}

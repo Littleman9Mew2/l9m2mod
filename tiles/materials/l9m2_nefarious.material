@@ -1,0 +1,27 @@
+{
+  "materialId" : 4105,
+  "materialName" : "l9m2_nefarious",
+  "particleColor" : [12, 12, 12, 255],
+  "itemDrop" : "l9m2_nefarious",
+  "description" : "A block that is the decayed state of Erchius Crystal.",
+  "shortdescription" : "Nefarious Crystal",
+  "glitchDescription" : "Amazed. This crystal is quite reflective",
+  "floranDescription" : "Crysstal remindsss Floran of own heart. Dark and evil!",
+  "novakidDescription" : "Somethin' like this sure does like mighty pretty.",
+  "apexDescription" : "'Nefarious: A special crystal that forms from Erchius after extreme amounts of time.' Fortunatly, this form is not as radioactive.",
+  "humanDescription" : "Scientists said something about the half-life of these crystals to be '3'. Whatever that means.",
+  "footstepSound" : "/sfx/blocks/footstep_crystal.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/l9m2_blockmaterial.config",
+  "renderParameters" : {
+    "texture" : "l9m2_nefarious.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : false,
+    "occludesBelow" : true,
+    "zLevel" : 3990,
+    "radiantLight" : [12, 12, 12]
+  }
+}

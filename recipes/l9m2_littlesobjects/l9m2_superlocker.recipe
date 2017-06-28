@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 5 },
+	{"item" : "durasteelbar", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "l9m2_superlocker",
+    "count" : 1
+  },
+  "groups" : [ "l9m2_littlesobjects", "storage", "all" ]
+}

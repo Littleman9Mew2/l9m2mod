@@ -1,0 +1,20 @@
+{
+  "particleEmitters" : {
+    "l9m2_nefariousparticle" : {
+      "enabled" : true,
+      "emissionRate" : 7.0,
+      "particles" : [
+        {
+          "particle" : "tar1"
+        }
+      ]
+    }
+  },
+  "lights" : {
+    "glow" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [30, 30, 30]
+    }
+  }
+}

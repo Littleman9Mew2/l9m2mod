@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "l9m2_helpmod-codex",
+    "count" : 1
+  },
+  "groups" : [ "l9m2_manual", "storage", "all" ]
+}

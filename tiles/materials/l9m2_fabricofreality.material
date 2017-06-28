@@ -1,0 +1,27 @@
+{
+  "materialId" : 4106,
+  "materialName" : "l9m2_fabricofreality",
+  "particleColor" : [12, 12, 12, 255],
+  "itemDrop" : "l9m2_fabricofreality",
+  "description" : "The fabric of reality itself.",
+  "shortdescription" : "Fabric of Reality",
+  "glitchDescription" : "Awstruck. This is incredibly silky smooth.",
+  "floranDescription" : "Floran likesss soft cloth.",
+  "novakidDescription" : "What a nice feelin' frabric we got here.",
+  "apexDescription" : "Scans are dictating this cloth being made of 'Everything'. How odd.",
+  "humanDescription" : "Made of 'everything'? Why is my scanners telling me 'everything'?",
+  "footstepSound" : "/sfx/blocks/footstep_tallgrass.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "l9m2_fabricofreality.png",
+    "variants" : 20,
+    "lightTransparent" : false,
+    "multiColored" : false,
+    "occludesBelow" : true,
+    "zLevel" : 9999,
+    "radiantLight" : [255, 255, 255]
+  }
+}
