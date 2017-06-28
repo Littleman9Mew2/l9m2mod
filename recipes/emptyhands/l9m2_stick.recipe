@@ -1,0 +1,9 @@
+{
+  "input" : [
+	{"item" : "logblock", "count" : 1 }	
+	],
+  "output" : { "item" : "l9m2_stick", "count" : 4},
+  "duration" : 0.5,
+  "groups"  : [ 
+  "plain", "all" ]
+}

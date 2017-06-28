@@ -1,0 +1,10 @@
+{
+  "itemName" : "l9m2_nefariousliquiditem",
+  "rarity" : "Rare",
+  "category" : "liquid",
+  "inventoryIcon" : "l9m2_nefariousliquiditem.png",
+  "shortdescription" : "Liquid Nefarious",
+  "description" : "A measure of Liquid Nefarious, a decayed version of Erchius.",
+
+  "liquid" : "l9m2_nefariousliquid"
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "l9m2_fabricofreality",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "l9m2_fabricofreality.png",
+  "description" : "The stuff that the universe will soon to be. Silky smooth though.",
+  "shortdescription" : "Fabric of Reality",
+
+  "materialId" : 4106
+}

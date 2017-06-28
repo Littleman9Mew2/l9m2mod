@@ -1,0 +1,8 @@
+[ 
+	{
+	"op":"add",
+	"path":"/-",
+	"value":
+		{"learnBlueprintsOnPickup": [ "l9m2_stick" ] }
+	}
+]

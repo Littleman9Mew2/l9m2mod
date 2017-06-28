@@ -1,0 +1,24 @@
+{
+  "id" : "l9m2_helpnefarious",
+  "title" : "A Guide To The Nefarious",
+  "description" : "The manual for the ^green;Nefarious^white;. A crystal that is the decayed state of Erchius.",
+  "icon" : "l9m2_helpnefarious.png",
+  "contentPages" : [
+"^orange;NEFARIOUS
+
+BY:
+
+Littleman9Mew2^white;", 
+
+"The Nefarious mod is a smaller part of 'Little's Mod' in which it adds a decayed version of the Erchius Crystal into the game. ^red;Currently they have no use and cannot be obtained without spawning the items in. PLEASE DO NOT USE!^white;",
+
+"^orange;CRYSTAL^white; - The Nefarious is a crystal that is the decayed state of the Erchius crystal. The crystal alone is the key component to making materials with it. While it's a more stable version of the crystal, it can be very dangerous while touching the crystal.",
+
+"^orange;LIQUID^white; - To most liquids, it converts anything to itself. In the case of water, lava, and other dangerous substances, it can be used to make more nefarious liquid. However, if it touches Erchius liquid, it turns into a solid form of Nefarious that can be harvested."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 5
+  }
+}

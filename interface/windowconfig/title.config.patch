@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/backdropImages/-",
+    "value": [
+      [
+        117,
+        -101
+      ],
+      "/interface/title/l9m2_logo.png",
+      1.0
+    ]
+  }
+]

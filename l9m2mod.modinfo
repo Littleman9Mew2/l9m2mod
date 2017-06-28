@@ -1,0 +1,11 @@
+{
+  "name" : "l9m2mod",
+  "version" : "Cheerful Giraffe",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Littleman9Mew2",
+    "version" : "0.2",
+    "description" : "Adds a bunch of stuff in Starbound.
+  }
+}

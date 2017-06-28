@@ -1,0 +1,49 @@
+{
+  "objectName" : "l9m2_littlesobjects",
+  "category" : "crafting",
+  "rarity" : "Rare",
+  "description" : "^orange;'Little's Workbench'^white;. You can craft a ton of items in here!",
+  "shortdescription" : "Little's Workbench",
+  "race" : "generic",
+  "interactAction" : "OpenCraftingInterface",
+  "itemTags" : [ "l9m2" ],
+  "interactData" : {
+    "config" : "/interface/windowconfig/crafting.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  Little's Workbench",
+        "subtitle" : "  For some making more stuff!",
+        "icon" : {
+          "file" : "/interface/crafting/anvil.png"
+        }
+      }
+    },
+    "filter" : [ "l9m2_littlesobjects" ]
+  },
+  "printable" : false,
+  "price" : 100,
+
+  "apexDescription" : "A place to craft many strange things.",
+  "avianDescription" : "I can use this to create new things.",
+  "floranDescription" : "Floran makess ssstuff.",
+  "glitchDescription" : "Constructive. I wonder what I can make?",
+  "humanDescription" : "I wonder what to make...",
+  "hylotlDescription" : "This is a place that I can get my hands dirty.",
+  "avaliDescription" : "I can produce many things here than even we Avali wish we can create.",
+
+  "inventoryIcon" : "l9m2_inv_littlesobjects.png",
+  "orientations" : [
+    {
+      "dualImage" : "l9m2_littlesobjects.png",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

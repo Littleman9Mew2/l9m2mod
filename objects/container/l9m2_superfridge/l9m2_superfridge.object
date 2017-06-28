@@ -1,0 +1,44 @@
+{
+  "objectName" : "l9m2_superfridge",
+  "colonyTags" : ["cooking","storage"],
+  "rarity" : "Rare",
+  "category" : "fridgeStorage",
+  "price" : 180,
+  "printable" : false,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "Perfect for storing a lot of food or you know, holding stuff.",
+  "shortdescription" : "Superfridge",
+  "itemTags" : [ "l9m2" ],
+  "health" : 1.5,
+
+  "apexDescription" : "A fridge... I think.",
+  "avianDescription" : "How can a lot of food fit in such a tiny thing?",
+  "floranDescription" : "Floran can sssmell meat inside.",
+  "glitchDescription" : "Suprised. This fridge is small, yet it holds alot of food.",
+  "humanDescription" : "If it's closed, is the light still on?",
+  "hylotlDescription" : "I'm curious into how this works.",
+  "novakidDescription" : "A plain ol' fridge.",
+  "avaliDescription" : "Amazed by how much food this stores.",
+
+  "inventoryIcon" : "l9m2_superfridgeicon.png",
+  "orientations" : [
+    {
+      "image" : "l9m2_superfridge.png:<color>.<key>",
+      "imagePosition" : [0, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/fridge_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/fridge_close.ogg" ],
+  "slotCount" : 144,
+  "uiConfig" : "/interface/chests/l9m2_chest144.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600,
+  "itemAgeMultiplier" : 0.0,
+  "soundEffect" : "/sfx/objects/fridge_hum.ogg"
+}

@@ -1,0 +1,30 @@
+{
+  "itemName" : "l9m2_steve_head",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "rare",
+  "description" : "The gender of this head cannot be determined.",
+  "shortdescription" : "Minecraft Mask",
+  "category" : "headarmour",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "headm.png",
+  "femaleFrames" : "headf.png",
+  "mask" : "mask.png",
+  "statusEffects" : [
+    {
+      "stat" : "protection",
+      "amount" : 2
+    },  
+    {
+      "stat" : "maxEnergy",
+      "amount" : 20
+    },
+    {
+      "stat" : "maxHealth",
+      "amount" : 10
+    }
+  ]
+
+}

@@ -1,0 +1,15 @@
+{
+  "itemName" : "l9m2_nefarious",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "l9m2_nefarious.png",
+  "description" : "A block that is the decayed state of Erchius Crystal.",
+  "shortdescription" : "Nefarious Crystal",
+  "glitchDescription" : "Amazed. This crystal is quite reflective",
+  "floranDescription" : "Crysstal remindsss Floran of own heart. Dark and evil!",
+  "novakidDescription" : "Somethin' like this sure does like mighty pretty.",
+  "apexDescription" : "'Nefarious: A special crystal that forms from Erchius after extreme amounts of time.' Fortunatly, this form is not as radioactive.",
+
+  "materialId" : 4105
+}

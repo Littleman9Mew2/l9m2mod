@@ -1,0 +1,27 @@
+{
+  "itemName" : "l9m2_l9m2_chest",
+  "price" : 1,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "For Imitating Pokemon!",
+  "shortdescription" : "Mewtwo Chest",
+  "tooltipKind" : "armor",
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "colorOptions" : [
+    // MEWTWO
+    { "8c8c8c" : "8c8c8c" , "bdb5b5" : "bdb5b5" , "dedede" : "dedede" , "efefe6" : "efefe6" }
+  ]
+}

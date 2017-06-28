@@ -1,0 +1,18 @@
+{
+  "itemName" : "l9m2_l9m2_back",
+  "price" : 250,
+  "inventoryIcon" : "icons.png:back",
+  "rarity" : "Uncommon",
+  "category" : "backwear",
+  "description" : "A long green tail.",
+  "shortdescription" : "Mewtwo Tail",
+  "tooltipKind" : "back",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+  "maxStack" : 1,
+  "colorOptions" : [
+    // MEWTWO
+    { "7bce31" : "7bce31" , "196300" : "196300" , "529c00" : "529c00" , "a5e65a" : "a5e65a" }
+  ]
+}

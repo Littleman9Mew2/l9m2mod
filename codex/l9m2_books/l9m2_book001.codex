@@ -1,0 +1,38 @@
+{
+  "id" : "l9m2_book001",
+  "title" : "A new anchient door? PART 1",
+  "description" : "A Scienctist documenting a new Anchient door.",
+  "icon" : "l9m2_book001.png",
+  "contentPages" : [
+
+    "July 29th,
+I've been wondering various planets for a while now and found something that seems to be of interest to document:
+A new type of achient doorway.",
+
+	"Unlike those found throughout the wilderness, these achient doors bare a different marking.
+I went to catelog what the marking ment: opes. 'Opes' is the Latin form of wealth, which is odd. I studied the door and it bare another small markings which read 'Dimension' and 'Limbo', fascinating. This is unlike any type of door I've ever seen, the others always disapeared long before I can jump inside to see the challenges ahead. These doors seem to resemble something of that of another world, unlike that of our own. I studied the markings along the border and translated them:",
+
+	"'A world of Cubes,
+a world of dragons,
+it is here that I came,
+not as something real,
+but as a modification.'",
+
+	"A world of cubes, I wonder what that could mean, the possibility of parallel universes? Perhaps, as the idea of 3D space has only been theorized and ignored in our society. I'm grabbing some equipment and going to research what's beyond this door.",
+	
+	"1st Day?	
+Day one of inside the door, and it's seemlingly normal. A structure made of that of brick and doors, lots of doors, that resemble that of the original I came through and they even have the same swirls of rainbows that the challenge doors resemble.",
+
+	"2nd Day?
+Update: Theirs something else here, I see it now. Eyes, multiple single red floating eyes I can see, through the walls, they emit an ominous tone, that sounds like moaning, oh have mercy. They don't seem too happy of me being here, but they don't seem to be causing any harm.
+I hope.",
+
+	"3rd Day?
+Update: About ten minutes, this place seems to resemble some kind of hub area, with the doors leading to different sections of the dungeon, I'm going to the first one nearest to the entrance to find what beyond the door."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 9
+  }
+}

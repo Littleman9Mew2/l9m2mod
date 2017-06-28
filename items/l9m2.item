@@ -1,0 +1,9 @@
+{
+  "itemName" : "l9m2",
+  "rarity" : "Common",
+  "inventoryIcon" : "l9m2.png",
+  "description" : "It's an item to signify a mod Littleman9Mew2 Made!",
+  "shortdescription" : "L9M2 Test Item",
+
+  "learnBlueprintsOnPickup" : [ "l9m2_stick" ]
+}

@@ -1,0 +1,53 @@
+{
+	"muteSfx" : true,
+	"muteMusic" : true,
+	"skippable" : true,
+	"backgroundFadeTime" : 0.5,
+	"backgroundColor" : [0, 0, 0, 255],
+	
+	"camera" : [
+  // rumble 1
+		{
+		"timecode" : 0,
+		"zoom" : 1.0,
+		"pan" : [0, 0]
+		},
+		{
+		"timecode" : 10,
+		"zoom" : 1.0,
+		"pan" : [0, 0]
+		}
+	],
+	"panels" : [
+		{
+		"startTime" : 0,
+		"endTime" : 5,
+		"avatar" : "full",
+		"keyframes" : [
+				{
+				"timecode" : 0,
+				"zoom" : 1.5,
+				"alpha" : 1,
+				"frame" : 0,
+				"position" : [390, 177]
+				},
+				{
+				"timecode" : 10,
+				"zoom" : 1.5,
+				"alpha" : 1,
+				"frame" : 10,
+				"position" : [390, 177]
+				}
+			]
+		}
+	],
+	
+	"audio" : [
+	    {
+		"timecode" : 0,
+		"endTimecode" : 2,
+		"loops" : 1,
+		"resource" : "/sfx/interface/aichatter1_loop.ogg"
+		}
+	]
+}

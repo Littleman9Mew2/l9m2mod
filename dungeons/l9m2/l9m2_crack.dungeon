@@ -1,0 +1,22 @@
+{
+  "metadata" : {
+    "name" : "l9m2_crack",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "protected" : false,
+    "anchor" : [ "l9m2_crack" ],
+    "maxRadius" : 1000000,
+    "maxParts" : 1
+  },
+
+  "parts" : [
+    {
+      "name" : "l9m2_crack",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "l9m2_crack.json" ]
+    }
+  ]
+}

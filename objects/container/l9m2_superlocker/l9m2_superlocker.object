@@ -1,0 +1,42 @@
+{
+  "objectName" : "l9m2_superlocker",
+  "colonyTags" : ["storage"],
+  "rarity" : "Rare",
+  "category" : "storage",
+  "price" : 180,
+  "printable" : false,
+  "itemTags" : [ "l9m2" ],
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "Compact, Yet holds tons of stuff!",
+  "shortdescription" : "Superlocker",
+  "health" : 1.5,
+
+  "apexDescription" : "Small, yet it holds plenty.",
+  "avianDescription" : "How can so much stuff fit in a tiny space?",
+  "floranDescription" : "Floran can ssstuff junk in box!",
+  "glitchDescription" : "Curious. How can something so small hold so much?",
+  "humanDescription" : "It's an industrial looking storage locker.",
+  "hylotlDescription" : "Somewhere to store personal belongings.",
+  "novakidDescription" : "Some magic locker to hold lots of stuff.",
+  "avaliDescription" : "For something called a 'Superlocker', it really lives by its name!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "l9m2_superlocker.png:<color>.<key>",
+      "imagePosition" : [0, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
+  "slotCount" : 144,
+  "uiConfig" : "/interface/chests/l9m2_chest144.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

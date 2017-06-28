@@ -1,0 +1,20 @@
+{
+  "itemName" : "l9m2_l9m2_head",
+  "price" : 1,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "For imitating Pokemon!",
+  "shortdescription" : "Mewtwo Mask",
+  "tooltipKind" : "armor",
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // MEWTWO
+    { "ffffff" : "ffffff", "000000" : "000000" , "424242" : "424242" , "7bce31" : "7bce31" , "8c8c8c" : "8c8c8c" , "bdb5b5" : "bdb5b5" , "dedede" : "dedede" , "efefe6" : "efefe6" }
+  ]
+}

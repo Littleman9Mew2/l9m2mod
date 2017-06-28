@@ -1,0 +1,48 @@
+{
+  "objectName" : "l9m2_clothingrack",
+  "category" : "crafting",
+  "rarity" : "uncommon",
+  "description" : "Craft fashionable items.",
+  "shortdescription" : "Clothing Rack",
+  "race" : "generic",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/crafting.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  Clothing Rack",
+        "subtitle" : "  For producing new clothes!",
+        "icon" : {
+          "file" : "/interface/crafting/anvil.png"
+        }
+      }
+    },
+    "filter" : [ "l9m2_clothingrack" ]
+  },
+  "printable" : false,
+  "price" : 100,
+
+  "apexDescription" : "A place to don a new appearance.",
+  "avianDescription" : "I can use this to weave new clothes.",
+  "floranDescription" : "Floran makess clothesss. Lookss pretty.",
+  "glitchDescription" : "Observant. This is where I can weave new clothes to wear.",
+  "humanDescription" : "I wonder what to wear...",
+  "hylotlDescription" : "This is a place that I will love!",
+  "avaliDescription" : "Not suited for the Avali, oh well.",
+
+  "inventoryIcon" : "l9m2_inv_clothingrack.png",
+  "orientations" : [
+    {
+      "dualImage" : "l9m2_clothingrack.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

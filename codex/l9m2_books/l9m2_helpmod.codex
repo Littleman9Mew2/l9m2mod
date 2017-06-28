@@ -1,0 +1,23 @@
+{
+  "id" : "l9m2_helpmod",
+  "title" : "A Guide To Little's Mod",
+  "description" : "The manual for the mod 'Little's Mod'.",
+  "icon" : "l9m2_helpmod.png",
+  "contentPages" : [
+"^orange;LITTLE'S MODS
+
+BY:
+
+Littleman9Mew2^white;", 
+
+"This is a book explaining the modication called 'Little's Mod', which add tons of stuff into the game. In these pages you will find that this book will guide you through some of the key elements.",
+
+"The main word here is 'Key' as the rest will be up to you to discover!",
+
+"^orange;NEFARIOUS^white; - The Nefarious will be seperately documented, please check out the book called ^green;'A Guide To The Nefarious'^white;." 
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 5
+  }
+}

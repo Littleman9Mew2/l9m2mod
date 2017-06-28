@@ -1,0 +1,18 @@
+{
+  "itemName" : "l9m2_l9m2_legs",
+  "price" : 1,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "For Imitating Pokemon!",
+  "shortdescription" : "Mewtwo Leggings",
+  "tooltipKind" : "armor",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+
+  "colorOptions" : [
+    // MEWTWO
+    { "7bce31" : "7bce31" , "8c8c8c" : "8c8c8c" , "bdb5b5" : "bdb5b5" , "dedede" : "dedede" , "efefe6" : "efefe6" , "196300" : "196300" , "529c00" : "529c00" , "a5e65a" : "a5e65a" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "itemName" : "l9m2_vaultboy_chest",
+  "price" : 1,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "For long term survival in a vault, it has the number 9 on the back.",
+  "shortdescription" : "Vault Boy Jumpsuit",
+  "tooltipKind" : "armor",
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "colorOptions" : [
+    // VAULTTEC BLUE
+    { "1f2eed" : "1f2eed" , "5b6dc7" : "5b6dc7" , "6c6ed4" : "6c6ed4" , "ab9a07" : "ab9a07" , "f0d702" : "f0d702" , "f6e236" : "f6e236" }
+  ]
+}

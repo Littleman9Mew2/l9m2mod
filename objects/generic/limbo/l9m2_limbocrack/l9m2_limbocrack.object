@@ -1,0 +1,36 @@
+{
+  "objectName" : "l9m2_limbocrack",
+  "colonyTags" : ["cooking","storage"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A mysterious crack in the universe.",
+  "shortdescription" : "Crack in the Universe",
+  "itemTags" : [ "l9m2" ],
+  "health" : 5,
+
+  "apexDescription" : "A crack in the universe? This isn't good.",
+  "avianDescription" : "How can this be? What is causing this?",
+  "floranDescription" : "Floran isss ssscared of floating crack.",
+  "glitchDescription" : "Shocked. A crack in the air? How is this possible?",
+  "humanDescription" : "This a weird...",
+  "hylotlDescription" : "I'm curious into how this came to be.",
+  "novakidDescription" : "The crack better not be breakin' anything.",
+  "avaliDescription" : "The universe is having issue which certainly isn't good.",
+
+  "inventoryIcon" : "l9m2_limbocrackicon.png",
+  "orientations" : [
+    {
+      "image" : "l9m2_limbocrack.png:<color>.<frame>",
+      "imagePosition" : [-64, -64],
+      "spaceScan" : 0.1,
+      "frames" : 8,
+      "animationCycle" : 0.8,
+      "anchors" : [ ]
+    }
+  ],
+
+  
+  "soundEffect" : "/sfx/l9m2_sounds/l9m2_static.ogg"
+}

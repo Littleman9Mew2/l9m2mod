@@ -1,0 +1,10 @@
+{
+  "itemName" : "l9m2_stick",
+  "rarity" : "Common",
+  "inventoryIcon" : "l9m2_stick.png",
+  "description" : "It's a stick! Good for small things.",
+  "shortdescription" : "Stick",
+  "itemTags" : [ "reagent" ],
+
+  "learnBlueprintsOnPickup" : [ "l9m2_torch" , "l9m2_clothingrack" ]
+}
